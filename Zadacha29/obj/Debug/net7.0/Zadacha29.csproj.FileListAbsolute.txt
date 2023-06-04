@@ -1,0 +1,15 @@
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.csproj.AssemblyReference.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.AssemblyInfoInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.AssemblyInfo.cs
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.csproj.CoreCompileInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\bin\Debug\net7.0\Zadacha29.exe
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\bin\Debug\net7.0\Zadacha29.deps.json
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\bin\Debug\net7.0\Zadacha29.runtimeconfig.json
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\bin\Debug\net7.0\Zadacha29.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\bin\Debug\net7.0\Zadacha29.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\refint\Zadacha29.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\Zadacha29.genruntimeconfig.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ-4\DZ-4\Zadacha29\obj\Debug\net7.0\ref\Zadacha29.dll
